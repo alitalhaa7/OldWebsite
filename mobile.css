@@ -1,0 +1,563 @@
+@media all and (min-width:960px) and (max-width: 1024px) {
+  /* put your css styles in here */
+   #intro img{
+       display: none;
+       
+   }
+    #Reasons{
+display: inline-table;
+    }
+    
+    #ReasonsTableImage{
+     display: none;
+    }
+    
+    #intro img{
+     visibility: hidden;
+        
+    }
+    
+    
+    #reasonstable{
+        min-width: 250px;
+        display: table;
+    }
+    #skills table tr td{
+     display:inline-block;   
+    }
+       #reasonstable tr td{
+         display:inline-block;   
+
+}
+    
+    #talhaalipicture{
+     margin-left:38%;
+
+        width:250px;
+        height: 250px;
+        
+    }
+    
+    
+    
+    #secondparagraph{
+     margin-right: 25%;
+    }
+    
+    
+    
+    
+    #reasonstable tr td{
+font-family: Lato-Light;
+ width: 100%;
+
+
+
+
+}
+#intro h1{
+ visibility: visible;
+}
+    
+    #intro h3{
+        visibility: visible;
+             font-size: 3.0vw;
+   
+    }
+    #whyme{
+     width:100%;
+        text-align: center;
+        margin:0px;
+    }
+    
+    
+    
+}
+
+@media all and (min-width:801px) and (max-width: 959px) {
+  /* put your css styles in here */
+     #intro img{
+       display: none;
+       
+   }
+    #Reasons{
+display: inline-table;
+
+    }
+        #ReasonsTableImage{
+     display: none;
+    }
+    
+    #intro h1{
+ visibility: visible;
+}
+    
+    
+    #intro img{
+     visibility: hidden;
+        
+    }
+   #talhaalipicture{
+       margin-left:35%;
+
+        width:250px;
+        height: 250px;
+        
+        
+    }
+     #reasonstable{
+        min-width: 250px;
+                 display: table;
+
+    }
+    #whyme{
+     width:100%;
+        text-align: center;
+        margin:0px;
+    }
+    
+    
+    #secondparagraph{
+  margin-right: auto;
+        margin-left: auto;
+        width:100%;    }
+    
+    
+    
+    
+    #skills table tr td{
+     display:block;   
+    }
+       #reasonstable tr td{
+         display:inline-block;   
+
+}
+    #reasonstable tr td{
+font-family: Lato-Light;
+ width: 100%;
+
+
+
+
+}
+
+    #intro h3{
+                visibility: visible;
+
+             font-size: 4.0vw;
+    }
+    
+    
+}
+
+@media all and (min-width:769px) and (max-width: 800px) {
+        #ReasonsTableImage{
+     display: none;
+    }
+     #intro img{
+       display: none;
+       
+   }
+    
+    #Reasons{
+display: inline-table;
+
+    }
+  /* put your css styles in here */
+    #intro h1{
+ visibility: visible;
+}
+    #intro img{
+     visibility: hidden;
+        
+    }
+    #reasonstable{
+        min-width: 250px;
+                display: table;
+
+    } 
+     #talhaalipicture{
+         margin-left:12%;
+
+        width:200px;
+        height: 200px;
+        
+        
+    }
+    
+    
+    
+    #secondparagraph{
+  margin-right: auto;
+        margin-left: auto;
+        width:100%;    }
+    
+    
+    
+    
+    #skills table tr td{
+     display:inline-block;   
+    }
+
+#reasonstable tr td{
+         display:inline-block;   
+
+}
+    
+    
+    #reasonstable tr td{
+font-family: Lato-Light;
+ width: 100%;
+
+
+
+
+}
+
+    #intro h3{
+                visibility: visible;
+
+             font-size: 4.0vw;
+   
+    }
+    
+    
+#whyme{
+     width:100%;
+        text-align: center;
+        margin:0px;
+    }
+    
+}
+
+@media all and (min-width:569px) and (max-width: 768px) {
+  /* put your css styles in here */
+     #intro img{
+       display: none;
+       
+   }
+        #ReasonsTableImage{
+     display: none;
+    }
+    #Reasons{
+display: inline-table;
+
+    }
+    #intro h1{
+ visibility: visible;
+}
+    #intro img{
+     visibility: hidden;
+        
+    }
+          #reasonstable{
+        min-width: 250px;
+                      display: table;
+
+    }
+     #talhaalipicture{
+margin-left: 35%;
+
+        width:200px;
+        height: 200px;
+        
+        
+    }
+    
+    
+    
+    #secondparagraph{
+  margin-right: auto;
+        margin-left: auto;
+        width:100%;    }
+    
+    
+    
+    
+    #skills table tr td{
+     display:inline-block;   
+    }
+    
+    
+    
+    #reasonstable tr td{
+         display:inline-block;   
+
+}
+    
+    
+    
+    #reasonstable tr td{
+font-family: Lato-Light;
+ width: 100%;
+
+
+
+
+}
+
+    #intro h3{
+                visibility: visible;
+
+             font-size: 4.0vw;
+   
+    }
+    #whyme{
+     width:100%;
+        text-align: center;
+        margin:0px;
+    }
+    
+    
+}
+
+@media all and (min-width:481px) and (max-width: 568px) {
+  /* put your css styles in here */
+     #intro img{
+       display: none;
+       
+   }
+        #ReasonsTableImage{
+     display: none;
+    }
+    #Reasons{
+display: inline-table;
+
+    }
+    #intro img{
+     visibility: hidden;
+        
+    }
+    
+    #intro h1{
+ visibility: visible;
+}
+     #reasonstable{
+        min-width: 250px;
+                 display: table;
+
+    }
+    #talhaalipicture{
+        margin-left:27%;
+
+        width:200px;
+        height: 200px;
+        
+        
+    }
+    
+    
+    
+    #secondparagraph{
+  margin-right: auto;
+        margin-left: auto;
+        width:100%;    }
+    
+    
+    
+    
+    #skills table tr td{
+     display:inline-block;   
+    }
+    
+    #reasonstable tr td{
+         display:inline-block;   
+
+}
+    #reasonstable tr td{
+font-family: Lato-Light;
+ width: 100%;
+
+
+
+
+}
+
+    
+    
+    
+    #intro h3{
+                visibility: visible;
+
+             font-size: 4.0vw;
+   
+    }
+    
+    #intro h1{
+ visibility: visible;
+}
+    #whyme{
+     width:100%;
+        text-align: center;
+        margin:0px;
+    }
+    
+    
+    
+}
+
+@media all and (min-width:321px) and (max-width: 480px) {
+  /* put your css styles in here */
+     #intro img{
+       display: none;
+       
+   }
+        #ReasonsTableImage{
+     display: none;
+    }
+    #Reasons{
+display: inline-table;
+
+    }
+    #intro img{
+     visibility: hidden;
+        
+    }
+          #reasonstable{
+                      display: table;
+
+        min-width: 250px;
+    }
+    #talhaalipicture{
+     margin-left:25%;
+
+        width:200px;
+        height: 200px;
+        
+        
+    }
+    #intro h1{
+ visibility: visible;
+}
+    
+    
+    #secondparagraph{
+  margin-right: auto;
+        margin-left: auto;
+        width:100%;    }
+    
+    
+    
+    
+    #skills table tr td{
+     display:inline-block;   
+    }
+    #reasonstable tr td{
+         display:inline-block;   
+
+}
+    
+    #reasonstable tr td{
+font-family: Lato-Light;
+ width: 100%;
+
+
+
+
+}
+
+    #intro h3{
+                visibility: visible;
+
+             font-size: 4.0vw;
+   
+    }
+    
+    #whyme{
+     width:100%;
+        text-align: center;
+        margin:0px;
+    }
+    
+}
+
+
+
+
+
+
+
+@media all and (min-width:0px) and (max-width: 320px) {
+  /* put your css styles in here */
+     #intro img{
+       display: none;
+       
+   }
+        #ReasonsTableImage{
+     display: none;
+    }
+    #Reasons{
+display: inline-table;
+
+    }
+    #intro img{
+     visibility: hidden;
+        
+    }      
+    #reasonstable{
+        min-width: 250px;
+    }
+    #talhaalipicture{
+     margin-left:12%;
+        
+        
+        width:200px;
+        height: 200px;
+        
+        
+    }
+    #intro h1{
+ visibility: visible;
+}
+    
+    
+    #secondparagraph{
+     margin-right: auto;
+        margin-left: auto;
+        width:100%;
+    }
+    
+    
+    
+    
+    
+    #skills table{
+    }
+    
+    #skills table tr td{
+
+    
+    display:inline;
+    
+    
+    }
+    
+    
+    #reasonstable tr td{
+         display:inline-block;   
+
+}
+    
+    #reasonstable tr td{
+font-family: Lato-Light;
+ width: 100%;
+
+
+
+
+}
+
+    #intro h3{
+                visibility: visible;
+
+             font-size: 4.0vw;
+    }
+    
+    #whyme{
+     width:100%;
+        text-align: center;
+        margin:0px;
+    }
+    
+    
+}

@@ -1,0 +1,643 @@
+*{
+    margin: 0;
+    padding: 0;
+
+
+}
+
+
+body, html {
+  height: 100%;
+    width:100%;
+background-color: #1A1A1A;
+    font-size: 100%;
+}
+
+.navbar-fixed {
+  top: 0;
+  z-index: 100;
+  position: fixed;
+  width: 100%;
+}
+
+
+#navigationtable{
+    width:100%;
+height:9%;
+max-width:100%;
+margin: 0%;
+    border-collapse:collapse;
+background-color: white;
+}
+
+.navelements{
+    font-family: 20px;
+    font-family: SourceSansPro-Light;
+width:11%;
+    color:#222222;
+text-align: center;
+    
+
+    
+       -webkit-transition: background 0.5s linear;
+        -moz-transition: background 0.5s linear;
+        -ms-transition: background 0.5s linear;
+        -o-transition: background 0.5s linear;
+        transition: background 0.5s linear;
+
+    
+    
+    
+    
+}
+
+
+
+
+.navelements:hover { background-color: #222222; color:#fff;  }
+
+
+
+
+#logo{
+
+text-align: center;
+    
+    padding-top: 5px;
+}
+
+
+#intro{
+    
+    width: 100%;
+    height: 91%;
+text-align: center;
+  background: -webkit-linear-gradient(#9A12B3, #BE90D4); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(#9A12B3, #BE90D4); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(#9A12B3, #BE90D4); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(#9A12B3, #BE90D4); /* Standard syntax */
+            color:white;
+
+ background: url(images/City_Wallpaper.png)no-repeat center center fixed; 
+ -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+    position:relative;
+}
+
+#intro img{
+  position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -500px;
+    margin-top: -100px;
+}
+
+#intro h1{
+    visibility: hidden;
+				position: absolute;
+				top: 26%; 
+  width: 100%;
+    font-family: SourceSansPro-Regular;
+    text-align: center;
+    font-size: 9.0vmax;
+    margin: 0;
+    padding: 0;
+}
+
+
+#intro h3{
+    visibility: hidden;
+    position: absolute;
+    top:45%;
+    font-family: SourceSansPro-ExtraLight;
+   letter-spacing: 5%;
+left: 0;
+  right: 0;
+  margin:auto;
+    height: 20px;
+    
+    border-top: 1px solid white;
+ width: 90%;
+}
+
+
+
+#aboutme{
+    
+   background-color: #F1F1F1;
+ display:table;
+
+    
+
+  height:575px;
+    
+    
+
+    
+}
+
+
+#secondparagraph{
+      color:#4A4A4A;
+ text-align:center;
+    <!--padding-top: 20px;
+    padding-bottom: 50px;-->
+    
+    
+    float:right;
+    
+    font-family:Lato-Light;
+    font-size:20px;
+    line-height: 200%;
+width:50%;
+    
+    margin-top: 9%;
+margin-right:11vw;
+}
+
+#AboutMeParagraphHeading{
+    
+        font-family:FrontPageNeue;
+        font-size: 30px;
+}
+
+
+
+
+
+#talhaalipicture{
+
+    border-radius: 100%;
+    -webkit-filter: grayscale(100%);
+filter: grayscale(100%);
+filter: gray;
+margin-top: 130px;
+    width:300px;
+    height:300px;
+   
+    
+    float:left;
+    
+    min-width: 170px;
+margin-left:100px;
+
+}
+
+
+
+
+
+#skills{
+ background-color: white;   
+    
+}
+
+
+#skills table{
+    text-align: center;
+border-collapse: collapse;
+width:80%;    
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;    
+
+}
+
+
+
+
+.tableheaders{
+ font-family:SourceSansPro-Black;
+color:#bbbbbb;
+        font-size: 30px;
+width:100%;
+}
+
+
+
+
+#skills table tr td p{
+    font-size: 15px;
+ font-family:SourceSansPro-Light;   
+padding-bottom: 15%;
+    padding-left: 10%;
+    padding-right: 10%;
+    
+}
+
+
+
+#Projects{
+    
+ height:600px;
+    background-color: #F1F1F1;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Reasons{
+    height:499px;
+background-color: white;
+}
+
+
+#ReasonsTableImage{
+    display: block;
+ margin-left: auto;
+    margin-right: auto;
+    margin: 0 auto;
+    
+    
+}
+#reasonstable{
+height:470px;
+    margin-left: auto;
+    margin-right: auto;
+    width:70%;
+    display:none;
+    
+}
+
+#reasonstable tr td{
+font-family: Lato-Light;
+
+    width:25%;
+    height:250px;
+
+display: inline-block;
+}
+
+
+
+
+
+
+#portfolio{
+ background-color:white;
+    width:100%;
+    height:500px;
+    
+    
+    
+}
+
+
+
+#portfolio table{
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+#portfolio table tr td{
+    
+}
+
+
+
+
+
+
+
+#reasonstable tr td h1{
+    
+  color:azure;   
+       text-align: left;
+ font-family:Quicksand-Light;
+    font-size: 30px;
+}
+
+
+
+
+
+
+.blackparagraph{
+    background-color: #1A1A1A;
+        color:white;
+    font-size:15px;
+
+}
+
+
+.whiteparagraph{
+    background-color: #111111;
+        color:white;
+
+    font-size:15px;
+
+}
+
+
+
+
+
+
+#whyme{
+  
+        font-size: 50px;
+margin-left: 5%;
+    margin-top: 16%;
+    font-family:Lato-Line;
+    margin-right: 5%;
+}
+
+
+
+
+
+
+#footer{
+    background-color: #1A1A1A;
+ 
+    height:210px;
+   
+width: 100%;
+    
+
+}
+
+
+#footerheader{
+    font-size: 20px;
+ font-family: Lato-Hairline;
+    text-align: center;
+    color:azure;
+    margin:20px;
+ 
+
+}
+
+
+  
+<!--[if gte IE 8]>
+
+
+
+
+#whymetable{
+    
+    
+    
+ font-size: 50px\0/
+    height:500px\0/
+    width:349px\0/
+    font-family:Lato-Line\0/
+    opacity: 0\0/
+    float:left\0/
+
+}
+
+#reasonstable{
+
+    height:500px\0/
+opacity: 0\0/
+float:right\0/
+}
+
+
+
+
+
+
+
+<![endif]-->
+
+
+
+
+
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+/* IE10+ CSS styles go here */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#footer h2{
+ color:white;  
+    
+ font-family: Lato-Hairline;   
+    font-size:50px;
+}
+#footer h3{
+ color:white;  
+    text-decoration: underline;
+     font-family: Lato-Hairline;   
+font-size:22px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+<!--INTERNET EXPLORER -->
+
+
+
+
+
+
+
+/* IE6 and below */
+* html #whymetable {    
+ font-size: 50px;
+    height:500px;
+    width:349px;
+    font-family:Lato-Line;
+    opacity: 0;
+    float:left; }
+  
+* html #reasonstable {  
+float:right; }
+
+
+
+* html #reasonstable tr td {   
+    
+         
+font-family: Lato-Light;
+width:250px; 
+
+}
+
+
+
+
+
+
+
+/* IE7 */
+*:first-child+html #whymetable {  font-size: 50px;
+    height:500px;
+    width:349px;
+    font-family:Lato-Line;
+    opacity: 0;
+    float:left;  }
+
+*:first-child+html #reasonstable {   height:500px;
+opacity: 0;
+float:right;   }
+
+
+
+
+@font-face{
+    font-family: "SourceSansPro-Black";
+src: url(font/SourceSansPro-Black.otf);  
+}
+
+@font-face{
+    font-family: "SourceSansPro-Regular";
+src: url(font/SourceSansPro-Regular.otf);  
+}
+
+@font-face{
+    font-family: "SourceSansPro-Light";
+src: url(font/SourceSansPro-Light.otf);  
+}
+
+@font-face{
+    font-family: "SourceSansPro-ExtraLight";
+src: url(font/SourceSansPro-ExtraLight.otf);  
+}
+
+
+
+
+@font-face{
+    font-family: "MarcellusSC";
+src: url(OpenSans-Bold.ttf);  
+}
+
+@font-face{
+    font-family: "LobsterTwo-Italic";
+src: url(LobsterTwo-Italic.ttf);  
+}
+
+
+
+
+@font-face{
+    font-family: "Lato-Light";
+src: url(Lato-Light.ttf);  
+}
+
+
+@font-face{
+    font-family: "Lato-Hairline";
+src: url(Lato-Hairline.ttf);  
+}
+
+@font-face{
+    font-family: "Lato-Heavy";
+src: url(Lato-Heavy.ttf);  
+}
+
+
+@font-face{
+    font-family: "Quicksand-Bold";
+src: url(Quicksand-Bold.otf);  
+}
+
+
+@font-face{
+    font-family: "Quicksand-Book";
+src: url(Quicksand-Book.otf);  
+}
+
+
+@font-face{
+    font-family: "Quicksand-Light";
+src: url(Quicksand-Light.otf);  
+}
+@font-face{
+    font-family: "FrontPageNeue";
+src: url(FrontPageNeue.otf);  
+}
+
+
